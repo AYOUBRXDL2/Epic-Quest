@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Epic Quest",
+  "orientation": "any",
+  "scope": "/Epic-Quest/",
+  "short_name": "Epic Quest",
+  "start_url": "https://ayoubrxdl2.github.io/Epic-Quest/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment",
+    "games"
+  ],
+  "description": "5 worlds,30 levels each, adventure game and fun,if there are any bugs contact me"
+}
