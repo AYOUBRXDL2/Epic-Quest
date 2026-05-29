@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Epic Quest",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Epic Quest",
+  "start_url": "https://4319c1d5-e3ff-4b27-b9e6-ef0dbf8997f3-00-381t1m8fhekcv.kirk.replit.dev/",
+  "theme_color": "#ffffff",
+  "description": "5 worlds, 30 levels each, adventure game, bosses every 10 level, skills and items \nFun playing but I will make the game better",
+  "categories": [
+    "entertainment",
+    "games"
+  ]
+}
